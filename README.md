@@ -8,7 +8,7 @@
 
 
 
-## Project 3 [Live Link]() | [Git Link]()
+## Project 3 [Live Link](https://lawhomepage111.netlify.app/) | [Git Link](https://github.com/zubair-shabir/Law-Home-Page)
 
 -   Skills Gained in this project
     -   Learnd to Place an image inside div and centering image without squishing or breaking image size with **object-fit** & **object-position**
